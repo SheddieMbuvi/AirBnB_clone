@@ -1,0 +1,32 @@
+.amenities .tv {
+    background: url("../images/icon_tv.png") no-repeat;
+    margin-top: 0.5em;
+    width: 100px;
+    margin-left: 2.5em;
+}
+
+.amenities .pet {
+    background: url("../images/icon_pet.png") no-repeat;
+    margin-top: 0.5em;
+    width: 100px;
+    margin-left: 2.5em;
+}
+
+.amenities .wifi {
+    background: url("../images/icon_wifi.png") no-repeat;
+    margin-top: 0.5em;
+    width: 100px;
+    margin-left: 2.5em;
+} 
+ul {
+      list-style: none;
+      padding: 0;
+    }
+li {
+      margin-bottom: 1px;
+      background-size: cover;
+      background-position: center;
+      background-repeat: no-repeat;
+      height: 100px;
+    }
+
